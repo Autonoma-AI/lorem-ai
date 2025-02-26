@@ -2,6 +2,8 @@
 
 A powerful tool for generating and managing seed data for your development and testing environments.
 
+![image](logo.jpg)
+
 ## Overview
 
 lorem.ai is a flexible utility designed to help developers create realistic test data for their applications. Whether you need to populate your database with sample users, products, or any other entities, DataSeeding makes the process simple and efficient.
